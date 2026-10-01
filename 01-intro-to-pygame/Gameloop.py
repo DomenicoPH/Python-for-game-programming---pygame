@@ -9,6 +9,6 @@ done = True
 while done:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            donde = False
+            done = False
 
     pygame.display.flip()
