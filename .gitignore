@@ -1,3 +1,5 @@
 .venv/
+course-materials/
+
 __pycache__/
 *.py[cod]
